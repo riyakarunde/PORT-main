@@ -42,11 +42,11 @@ import board from './assets/education_logo/board.png';
 import kksuLogo from './assets/education_logo/kksu.png';
 
 // Project Section Logo's
-import progress from "./assets/work_logo/Progress.png";
+import progress from "./assets/work_logo/progress.png";
 import weather from "./assets/work_logo/weather.png";
 import animeverse from "./assets/work_logo/animeverse.png";
 import texttovoice from "./assets/work_logo/text_to_speech.png";
-import note from "./assets/work_logo/Note.png";
+import note from "./assets/work_logo/note.png";
 import Randomuser from "./assets/work_logo/randomuser.png";
 import Currency from "./assets/work_logo/currency.png";
 
