@@ -46,7 +46,7 @@ import progress from "./assets/work_logo/Progress.png";
 import weather from "./assets/work_logo/weather.png";
 import animeverse from "./assets/work_logo/animeverse.png";
 import texttovoice from "./assets/work_logo/text_to_speech.png";
-import note from "./assets/work_logo/note.png";
+import note from "./assets/work_logo/Note.png";
 import Randomuser from "./assets/work_logo/randomuser.png";
 import Currency from "./assets/work_logo/currency.png";
 
