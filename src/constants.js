@@ -42,14 +42,13 @@ import board from './assets/education_logo/board.png';
 import kksuLogo from './assets/education_logo/kksu.png';
 
 // Project Section Logo's
-import progress from "./assets/work_logo/progress.png";
+import progressbar from "./assets/work_logo/progress.png";
 import weather from "./assets/work_logo/weather.png";
 import animeverse from "./assets/work_logo/animeverse.png";
 import texttovoice from "./assets/work_logo/text_to_speech.png";
 import note from "./assets/work_logo/note.png";
 import randomuser from "./assets/work_logo/randomuser.png";
 import currency from "./assets/work_logo/currency.png";
-
 
 export const SkillsInfo = [
   {
@@ -208,7 +207,7 @@ export const SkillsInfo = [
       title: "Progress Bar",
       description:
         "A simple and interactive Progress Bar application built using React JS, HTML, CSS, and JavaScript to visually display task completion progress in a clean user interface.",
-      image: progress,
+      image: progressbar,
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/riyakarunde/PROGRESSBAR",
       webapp: "https://progressbar-kappa-six.vercel.app/",
