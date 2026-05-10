@@ -47,8 +47,8 @@ import weather from "./assets/work_logo/weather.png";
 import animeverse from "./assets/work_logo/animeverse.png";
 import texttovoice from "./assets/work_logo/text_to_speech.png";
 import note from "./assets/work_logo/note.png";
-import Randomuser from "./assets/work_logo/randomuser.png";
-import Currency from "./assets/work_logo/currency.png";
+import randomuser from "./assets/work_logo/randomuser.png";
+import currency from "./assets/work_logo/currency.png";
 
 
 export const SkillsInfo = [
@@ -238,7 +238,7 @@ export const SkillsInfo = [
       title: "Random User Generator",
       description:
         "A simple and interactive Random User Generator application built with React.js. It fetches random user data from a REST API and displays it in a clean, responsive UI.",
-      image: Randomuser,
+      image: randomuser,
       tags: [ "HTML", "CSS", "JavaScript"],
       github: "https://github.com/riyakarunde/random_user",
       webapp: "https://random-user-azure-two.vercel.app/",
@@ -248,7 +248,7 @@ export const SkillsInfo = [
       title: "Currency Converter",
       description:
         "A simple and interactive Currency Converter application built with HTML, CSS, JavaScript and restful API. It fetches real-time exchange rates from a REST API and displays them in a clean, responsive UI.",
-      image: Currency,
+      image: currency,
       tags: [ "HTML", "CSS", "JavaScript"],
       github: "https://github.com/riyakarunde/currecy_converter",
       webapp: "https://currecy-converter-jade.vercel.app/",
